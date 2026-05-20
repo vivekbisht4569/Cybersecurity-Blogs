@@ -35,3 +35,8 @@ Vivek Singh Bisht
 - GitHub: https://github.com/vivekbisht4569
 - LinkedIn: https://www.linkedin.com/in/vivek-singh-bisht-074160326/
 - TryHackMe: https://tryhackme.com/p/viveksinghbisht2
+
+
+## Disclaimer
+
+Blogs will be added after a While and Keep being Upadting. 
